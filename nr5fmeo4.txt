@@ -1,0 +1,8 @@
+<!--
+document.write('<center><a href="../academy/index.html" target="_top" class="nbl"><b>Naval Academy</a></center>');
+document.write('<center><a href="../oojedi/index.html" target="_top" class="nbl"><b>Order of Jedi</a></center>');
+document.write('<center><a href="../subgroup/nrn.php" class="nbl"><b>New Republican News</a></center>');
+document.write('<center><a href="../subgroup/rdc.php" class="nbl"><b>Republican Diplomatic Corps</a></center>');
+document.write('<center><a href="../subgroup/rnd.php" class="nbl"><b>Research and Development</a></center>');
+
+//-->

@@ -1,0 +1,85 @@
+Ladder Log 2002:
+================
+
+JK2: Michael Simon 10  vs  Matt Sifi 6  vs  Master-Qui-Gon 1
+JK2: Matt Sifi 8  vs  Master-Qui-Gon -1
+JK2: Matt Sifi 3  vs  Master-Qui-Gon 1
+JK2: Commskywalker 10  vs  Master-Qui-Gon 3
+JK2: Commskywalker 10  vs  Master-Qui-Gon 5
+JK2: Pat 0  vs  Master-Qui-Gon -1
+JK2: Pat 10  vs  Master-Qui-Gon 2
+JK2: Jedi3 20  vs  Matt Sifi 18  vs  Michael Simon 4
+JK2: Fliegenpilz 39  vs  Michael Simon 30  vs  Verena Simon 18  vs  Domminik Herges 13  vs  Jan Gessinger 13  vs Benjamin Simon 12
+JK2: Jan Gessinger 9  vs  Benjamin Simon 8  vs  Kai Gerhard 7  vs  Michael Simon 6  vs  Fliegenpilz 6  vs  Dominik Herges 1
+JK2: Michael Simon 17  vs  Jan Gessinger 13  vs  Fliegenpilz 10  vs  Kai Gerhard 10  vs  Benjamin Simon 9  vs  Dominik Herges 4
+JK2: Benjamin Simon 22  vs  Fliegenpilz 18  vs  Michael Simon 18  vs  Kai Gerhard 8  vs  Jan Gessinger 2  vs  Verena Simon 1  vs Dominik Herges 0
+JK2: Benjamin Simon 81  vs  Dominik Herges 21
+JK2: Matt Sifi 15  vs  Jedi3 7  vs  Neosophite 0
+JK2: Matt Sifi 15  vs  Jedi3 8  vs  Neosophite 0
+XvT: Benjamin Simon 14  vs  Martin Andries 10
+XvT: Martin Andries 11  vs  Benjamin Simon 7
+JK: Michael Simon 10  vs  Fliegenpilz 3  vs  Martin Andries 3  vs  Benjamin Simon 2  vs  Dominik Herges 1
+JK: Michael Simon 11  vs  Martin Andries 4  vs  Fliegenpilz 3  vs  Benjamin Simon 3  vs  Dominik Herges 0
+JK2: Michael Simon 13  vs  Martin Andries 8  vs  Benjamin Simon 7  vs  Fliegenpilz 4
+JK2: Benjamin Simon 19  vs  Michael Simon 9  vs  Fliegenpilz 8  vs  Martin Andries 5
+JK2: Benjamin Simon 21  vs  Martin Andries 12  vs  Michael Simon 8
+JK2: Martin Andries 29  vs  Benjamin Simon 27  vs  Michael Simon 16
+JK2: Michael Simon 20  vs  Fliegenpilz 9  vs  Benjamin Simon 6
+JK2: Michael Simon 20  vs  Benjamin Simon 14
+JK2: Michael Simon 20  vs  Benjamin Simon 14
+JK2: Fliegenpilz 20  vs  Benjamin Simon 15
+JK2: Benjamin Simon 23  vs  Fliegenpilz 16  vs  Michael Simon 12  vs  Kai Gerhard 10  vs  Verena Simon 6
+JK2: Michael Simon 50  vs  Fliegenpilz 41  vs  Benjamin Simon 39  vs  Verena Simon 20  vs  Kai Gerhard 18  vs  Dominik Herges 8
+JK2: Benjamin Simon 17  vs  Kai Gerhard 12  vs  Dominik Herges 3
+JK2: Benjamin Simon 33  vs  Michael Simon 24  vs  Kai Gerhard 16  vs  Dominik Herges 5
+JK2: Matt Sifi 7  vs  Michael Simon 4
+JK2: Michael Simon 10  vs  Psylor 7
+JK2: Fliegenpilz 60  vs  Dominik Herges 0
+JK2: Michael Simon 10  vs  Psylor 7
+JK2: Fliegenpilz 63  vs  Michael Simon 61  vs  Dominik Herges 14
+JK2: (Michael Simon 57, Benjamin Simon 30) 87  vs  (Fliegenpilz 35, Dominik Herges 14) 49
+JK2: (Fliegenpilz 36, Benjamin Simon 30) 66  vs  (Michael Simon 40, Dominik Herges 20) 60
+JK2: Benjamin Simon 19  vs  Kai Gerhard 11  vs  Dominik Herges 5
+JK2: Michael Simon 30  vs  Benjamin Simon 28  vs  Kai Gerhard 17  vs  Dominik Herges 8
+JK2: Matt Sifi 10  vs  Psylor 9  vs  Jae-Doe Ocato 3
+JK2: Matt Sifi 10  vs  Psylor 9  vs  Jae-Doe Ocato 2
+JK2: Fliegenpilz 71  vs  Dominik Herges 4
+JK2: Fliegenpilz 37  vs  Benjamin Simon 35
+JK2: Michael Simon 20  vs  Fliegenpilz 19  vs  Benjamin Simon 18
+JK2: Psylor 10  vs  Matt Sifi 9  vs  Worf 1
+JK2: Matt Sifi 10  vs  Psylor 4  vs  Jae-Doe Ocato 0
+JK2: Matt Sifi 10  vs  Psylor 3  vs  Jae-Doe Ocato 1
+JK2: Fliegenpilz 17  vs  Benjamin Simon 15  vs  Dominik Herges 2
+JK2: Benjamin Simon 22  vs  Bettina Lorig 9  vs  Dominik Herges 8
+JK2: Michael Simon 60  vs  Benjamin Simon 55  vs  Fliegenpilz 38  vs  Dominik Herges 11
+JK2: Fliegenpilz 22  vs  Benjamin Simon 11  vs  Dominik Herges 3  vs  Bettina Lorig 1
+JK2: Commskywalker 10  vs  VDJ Karper 3
+JK2: Commskywalker 10  vs  VDJ Karper 6
+JK2: Commskywalker 20  vs  Psylor 11  vs  VDJ Karper 8  vs  Matt Sifi 4  vs  Jae-Doe Ocato 0
+JK2: (Commskywalker 43, Ocato 41) 84  vs  (Psylor 49, Wolverine 23) 72 
+JK2: Commskywalker 15  vs  VDJ Karper 2
+JK2: Matt Sifi 10  vs  Jae-Doe Ocato 3
+JK2: Matt Sifi 10  vs  Psylor 8  vs  Jae-Doe Ocato 0
+JK2: Matt Sifi 10  vs  Psylor 8
+JK2: Matt Sifi 3  vs  Jae-Doe Ocato 1
+JK2: Matt Sifi 10  vs  Psylor 9  vs  Jae-Doe Ocato 3
+JK2: Matt Sifi 10  vs  Psylor 8
+JK2: Michael Simon 10  vs  Wolverine 3
+JK2: Psylor 10  vs  Harm Brandai 1
+JK2: Psylor 10  vs  Harm Brandai 0
+JK2: Psylor 10  vs  Harm Brandai 0
+JK2: Psylor 31  vs  Harm Brandai 30  vs  Michael Simon 23
+JK2: Matt Sifi 10  vs  Pat 3
+JK2: Matt Sifi 20  vs  Psylor 6  vs  Wolverine -1
+JK2: Matt Sifi 7  vs  Pat 6
+JK2: Matt Sifi 10  vs  Psylor 8
+JK2: Matt Sifi 10  vs  Psylor 4
+JK2: Benjamin Simon 10  vs  Dominik Herges 0
+JK2: Benjamin Simon 10  vs  Dominik Herges 5
+JK2: Commskywalker 8  vs  Pat 0  vs  Darth Palpetine 0
+JK2: Benjamin Simon 10  vs  Dominik Herges 2
+JK2: Fliegenpilz 10  vs  Radix 6
+JK2: Radix 10  vs  Fliegenpilz 7
+JK2: Benjamin Simon 100  vs  Dominik Herges 30
+JK2: Benjamin Simon 10  vs  Christian Jungmann 1
+JK2: Fliegenpilz 10  vs  Benjamin Simon 3

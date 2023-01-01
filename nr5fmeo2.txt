@@ -1,0 +1,7 @@
+<!--
+document.write('<center><a href="../council.htm" target="_top" class="nbl"><b>High Command</b></a></center>');
+document.write('<center><a href="../main/nhq.htm" target="_top" class="nbl"><b>Fleet Commander</b></a></center>');
+document.write('<center><a href="http://bgzentar.fifthnet.org/fxo.htm" target="_top" class="nbl"><b>Fleet Executive Officer</b></a></center>');
+document.write('<center><a href="http://ships.fifthnet.org/ssdangelofdeath/chamber.php" target="_top" class="nbl"><b>Fleet Senior Officer</b></a></center>');
+
+//-->

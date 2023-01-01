@@ -1,0 +1,6 @@
+<!--
+document.write('<center><a href="main/bgmain.htm" class="nbl"><b>Battlegroup One</a></center>');
+document.write('<center><a href="http://bgzentar.fifthnet.org/" target="_top" class="nbl"><b>Battlegroup Zentar</b></a></center>');
+document.write('<center><a href="http://bghunter.fifthnet.org/" target="_top" class="nbl"><b>Battlegroup Hunter</b></a></center>');
+
+//-->

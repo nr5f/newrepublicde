@@ -1,0 +1,6 @@
+<!--
+document.write('<center><a href="http://www.rebelsquadrons.org/" target="new" class="nbl"><b>Rebel Squadrons</b></a></center>');
+document.write('<center><a href="http://www.starvipers.org/" target="new" class="nbl"><b>Star Vipers</b></a></center>');
+document.write('<center><a href="http://www.darkjedibrotherhood.org/dbjedi/" target="new" class="nbl"><b>Dark Jedi Brotherhood</b></a></center>');
+
+//-->

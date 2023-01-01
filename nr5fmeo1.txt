@@ -1,0 +1,22 @@
+<!--
+document.write('<center><a href="../main.htm" class="nbl"><b>Introduction</b></a></center>');
+document.write('<center><a href="http://www.fifthnet.org/forum/" target="_mb" class="nbl"><b>Message Board</b></a></center>');
+document.write('<center><a href="../roster/join.htm" class="nbl"><b>Join Us</b></a></center>');
+document.write('<center><a href="../roster/madmin.htm" class="nbl"><b>Login</b></a></center>');
+document.write('<center><a href="http://chat.fifthnet.org/" target="_irc" class="nbl"><b>IRC Chat</b></a></center>');
+document.write('<center><a href="../roster/index.html" class="nbl"><b>Members Roster</b></a></center>');
+document.write('<center><a href="../gaming/index.html" class="nbl"><b>Tournaments/Ladders</b></a></center>');
+document.write('<center><a href="../archiv/index.html" class="nbl"><b>Fleet History</b></a></center>');
+document.write('<center><a href="../delasol/map.htm" class="nbl"><b>System Map</b></a></center>');
+document.write('<center><a href="../alliance.htm" class="nbl"><b>Inter-Club Allies</b></a></center>');
+document.write('<center><a href="../main/nhq2.htm" class="nbl"><b>Uniform Database</b></a></center>');
+document.write('<center><a href="../jobs.htm" class="nbl"><b>Open Positions</b></a></center>');
+document.write('<center><a href="http://www.fifthnet.org/" class="nbl"><b>Fifthnet.org</b></a></center>');
+document.write('<center><a href="http://nr5f.bathtub-productions.com/gallery/main.php" class="nbl" target="gallery"><b>Gallery</b></a></center>');
+document.write('<center><a href="http://www.fifthnet.org/podcast/" class="nbl"><b>Podcast</b></a></center>');
+document.write('<center><a href="http://nr5f.bathtub-productions.com/5f_quotes/" class="nbl"><b>Random Quotes</b></a></center>');
+
+//-->
+
+
+
